@@ -1,1 +1,1 @@
-# counter_mp
+# counter_miniproject
